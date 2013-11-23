@@ -1,0 +1,8 @@
+Searching 228 files for "mediumaha"
+
+/Users/deans55/Desktop/pinteresting/app/views/pins/show.html.erb:
+    1: <%= image_tag @pin.image.url(:medium) %>
+    2  <p>
+    3    <strong>Description:</strong>
+
+1 match in 1 file
